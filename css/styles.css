@@ -155,7 +155,7 @@ body {
   text-align: center;
   letter-spacing: 0.03em;
 
-  /* cursor: pointer; */
+  cursor: pointer;
 }
 
 .button:hover,
